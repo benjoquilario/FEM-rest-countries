@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Frontend Mentor - REST Countries API with color theme switcher solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Screenshot
 
-## Available Scripts
+![](./screenshot.png)
 
-In the project directory, you can run:
+## Table of contents
 
-### `npm start`
+-  [Overview](#overview)
+   -  [The challenge](#the-challenge)
+   -  [Screenshot](#screenshot)
+   -  [Links](#links)
+-  [My process](#my-process)
+   -  [Built with](#built-with)
+   -  [What I learned](#what-i-learned)
+   -  [Continued development](#continued-development)
+   -  [Useful resources](#useful-resources)
+-  [Author](#author)
+-  [Acknowledgments](#acknowledgments)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### The challenge
 
-### `npm test`
+Users should be able to:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-  See all countries from the API on the homepage
+-  Search for a country using an `input` field
+-  Filter countries by region
+-  Click on a country to see more detailed information on a separate page
+-  Click through to the border countries on the detail page
+-  Toggle the color scheme between light and dark mode
 
-### `npm run build`
+### Links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-  Solution URL: [Add solution URL here](https://your-solution-url.com)
+-  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## My process
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Built with
 
-### `npm run eject`
+-  Semantic HTML5 markup
+-  JSX
+-  CSS custom properties
+-  Flexbox
+-  CSS Grid
+-  Mobile-first workflow
+-  [React](https://reactjs.org/) - JS library
+-  [TailwindCSS](hthttps://tailwindcss.com/) - CSS framework
+-  [Redux](https://redux.js.org/) - JS state management.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### What I learned
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project helped to learn about tailwind css. Tailwindcss is basically a utility-first CSS framework for rapidly building custom user interfaces. I didn't need to create a new css file simply add a className to style a components.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Also this project helped me to understand a redux, although the state management of this project is not great it helped me to understand the redux.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project helped me to understand more about localstorage with reactJS
 
-## Learn More
+### Continued development
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Need to continued develop the state management of the projects and need to memorize some css className of tailwind frameworks.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Useful resources
 
-### Code Splitting
+-  [TailwindCSS](https://tailwindcss.com/) - This documentation helped to understand about CSS frameworks. I really liked this pattern and will use it going forward.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-  Website - [Add your name here](https://www.benjoquilario.me/)
+-  Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/benjoquilario)
+-  Twitter - [@yourusername](https://twitter.com/iam_benjo)
