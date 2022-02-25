@@ -23,7 +23,7 @@ const Countries = () => {
                   key={index}
                   className="bg-white dark:bg-[#2b3945] rounded overflow-hidden text-[#111517] shadow-[0_0_12px_-5px_rgba(0,0,0,0.2)] mb-[80px]"
                >
-                  <Link to={`/${name}`}>
+                  <Link to={`/${name}`} aria-label="country flag">
                      <img
                         src={flag}
                         className="object-cover w-full h-[160px]"

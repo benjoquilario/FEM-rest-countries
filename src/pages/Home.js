@@ -26,6 +26,7 @@ const Home = () => {
          <Header />
          <main className="pt-[131px] px-[18px] md:px-[80px]">
             <div className="w-full max-w-[90rem] mx-auto">
+               <h1 className="sr-only">Countries around the world!</h1>
                <div className="mb-9 md:flex md:justify-between">
                   <SearchCountry
                      onHandleSubmit={onHandleSubmit}
