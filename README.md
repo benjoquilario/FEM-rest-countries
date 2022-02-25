@@ -27,6 +27,7 @@ Users should be able to:
 -  See all countries from the API on the homepage
 -  Search for a country using an `input` field
 -  Filter countries by region
+-  Select an individual country to discover more
 -  Click on a country to see more detailed information on a separate page
 -  Click through to the border countries on the detail page
 -  Toggle the color scheme between light and dark mode
@@ -34,7 +35,7 @@ Users should be able to:
 ### Links
 
 -  Solution URL: [Add solution URL here](https://your-solution-url.com)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Live Site URL: [Add live site URL here](https://countries-benjo.netlify.app)
 
 ## My process
 
@@ -68,6 +69,6 @@ Need to continued develop the state management of the projects and need to memor
 
 ## Author
 
--  Website - [Add your name here](https://www.benjoquilario.me/)
--  Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/benjoquilario)
--  Twitter - [@yourusername](https://twitter.com/iam_benjo)
+-  Website - [Benjo Quilario](https://www.benjoquilario.me/)
+-  Frontend Mentor - [@benjoquilario](https://www.frontendmentor.io/profile/benjoquilario)
+-  Twitter - [@iambenjo](https://twitter.com/iam_benjo)

@@ -1,5 +1,3 @@
-import { useEffect, useState } from 'react';
-
 const useDarkMode = () => {
    let clickedClass = 'clicked';
    const light = 'light';
